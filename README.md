@@ -1,7 +1,7 @@
 # TinyCircuits Tiny Violin
 # ASM4003 Rev1
 
-These are the design files for the TinyCircuits ASM4003 Rev 1 PCB.  This is a Tiny Violin with capacitive touch sensors and a buzzer.
+The the design files are located under design_files/ for the TinyCircuits ASM4003 Rev 1 PCB.  This is a Tiny Violin with capacitive touch sensors and a buzzer.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
