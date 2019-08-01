@@ -1,4 +1,4 @@
-# TinyCircuits Tiny Violin
+# TinyCircuits TinyViolin
 # ASM4003 Rev1
 
 The design files are located under design_files/ for the TinyCircuits ASM4003 Rev 1 PCB.  This is a Tiny Violin with capacitive touch sensors and a buzzer.
